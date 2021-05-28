@@ -1,4 +1,4 @@
-## HR Module-BackEnd
+## TODO Module-BackEnd
 
 
 ## Available Scripts
@@ -17,11 +17,4 @@ Open [http://localhost:5000/api/v1/](http://localhost:5000/api/v1/) to view it i
 
 
 
-### `/branch` resources
 
-branch route runing as type of request GET-POST-PUT-DELETE.<br>
-/branch GET-Fetch all data <br>
-/branch/id GET-Fetch single data<br>
-/branch POST-Send in Body Branch Data<br>
-/branch/id PUT-Send in Body Branch Data<br>
-/branch/id Delete-Delete Branch<br>
